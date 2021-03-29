@@ -1,0 +1,19 @@
+body { 
+  margin: 0;
+  background: lightblue;
+}
+
+.container {
+  background: #333;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.draggable {
+  background: #fff;
+  padding: 15px;
+}
+
+.dragging {
+  opacity: .5;
+}
